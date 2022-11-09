@@ -7,7 +7,7 @@
   <h3>😎 Software Engineer, Brazil 🌎</h3><br>
 </div>
 
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaopedrofonsecas&count_private=true&show_icons=true" alt="My github stats">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaopedrofonseca&count_private=true&show_icons=true" alt="My github stats">
 
 My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currently also studying Mechanical Engineering at UFU.
 
