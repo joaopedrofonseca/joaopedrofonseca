@@ -16,7 +16,8 @@ I've been working with **HTML**, **CSS**, **JavaScript** and **Git**.
 
 
 <div align="left">
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaopedrofonsec4@gmail.com)](mailto:joaopedrofonsec4@gmail.com)
+  <a href = "g" target ="_blank">
+    	<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height ="24" alt="gmail logo"/>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-fonseca-20b987255/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
