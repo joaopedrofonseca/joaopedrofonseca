@@ -18,13 +18,11 @@ My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currentl
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
 <h3>My Skills</h3>
-<h4>Front-End</h4>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
 </br>
-<h4>Back-End</h4>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
