@@ -39,7 +39,7 @@
 </div>
 </br>
 <div align="center">
-<h3>My Repo Stats</h3>
+<h3>Repo Stats</h3>
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=joaopedrofonseca&count_private=true&show_icons=true" alt="My github stats">
   <img width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofonseca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
  </div>
