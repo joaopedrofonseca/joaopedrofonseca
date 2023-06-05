@@ -1,23 +1,23 @@
-<h3>Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /> </h3>
+<h3>Olá! Seja bem vindo ao meu perfil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /> </h3>
 
 
 
 <div align="center">
   <h1>João Pedro Fonseca</h1>
-  <h3>😎 Software Engineer, Brazil 🌎</h3><br>
+  <h3>😎 Desenvolvedor Web Fullstack, Brasil 🌎</h3><br>
 </div>
 <div align="center">
   
-My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currently also studying Mechanical Engineering at UFU.
+
   </br>
-  <h3>Contact</h3>
+  <h3>Contato</h3>
   <a href ="mailto:joaopedrofonsec4@gmail.com">
   <img src="https://img.shields.io/badge/-joaopedrofonsec4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrofonsec4@gmail.com"/>
   </a href>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-fonseca-20b987255/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-<h3>My Skills</h3>
+<h3>Minhas Habilidades</h3>
 <h4>Front-End</h4>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
