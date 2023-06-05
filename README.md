@@ -36,8 +36,6 @@ My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currentl
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
-</br>
-
 </div>
 </br>
 <div align="center">
