@@ -23,6 +23,7 @@ My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currentl
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+</br>
 <h4>Back-End</h4>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
