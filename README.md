@@ -25,6 +25,7 @@ I've been working with:
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br>
 Now I'm learning: Node.js and MongoDB
