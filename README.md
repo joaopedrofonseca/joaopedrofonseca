@@ -11,7 +11,7 @@
 My name is João Pedro Fonseca. I'm Software Developer from Brazil, I'm currently also studying Mechanical Engineering at UFU.
   </br>
   <h3>Contact</h3>
-  <a href ="mailto:kanna6501@gmail.com">
+  <a href ="mailto:joaopedrofonsec4@gmail.com">
   <img src="https://img.shields.io/badge/-joaopedrofonsec4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrofonsec4@gmail.com"/>
   </a href>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-fonseca-20b987255/" target="_blank">
